@@ -1,0 +1,709 @@
+{
+  "university": "Nova University",
+  "note": "This dataset is fictional demo data created for the CodeAlpha AI Internship Task 2 project.",
+  "faqs": [
+    {
+      "id": 1,
+      "category": "Admissions",
+      "question": "What are the admission requirements for Nova University?",
+      "answer": "For undergraduate programs, Nova University (demo data) requires a completed application form, official high school transcripts, a minimum GPA of 2.5, and proof of English proficiency for international applicants.",
+      "keywords": [
+        "admission",
+        "requirements",
+        "eligibility",
+        "apply",
+        "criteria"
+      ]
+    },
+    {
+      "id": 2,
+      "category": "Admissions",
+      "question": "How do I apply for admission?",
+      "answer": "You can apply online through the Nova University Admissions Portal (demo). Create an account, fill in your personal and academic details, upload required documents, and submit the application fee.",
+      "keywords": [
+        "apply",
+        "application",
+        "admission process",
+        "how to apply",
+        "portal"
+      ]
+    },
+    {
+      "id": 3,
+      "category": "Admissions",
+      "question": "What is the application deadline?",
+      "answer": "The Fall semester application deadline is July 15th, and the Spring semester deadline is December 1st (sample dates for demonstration purposes).",
+      "keywords": [
+        "deadline",
+        "last date",
+        "application date",
+        "closing date"
+      ]
+    },
+    {
+      "id": 4,
+      "category": "Admissions",
+      "question": "Can international students apply to Nova University?",
+      "answer": "Yes, Nova University (demo) welcomes international students. They must submit additional documents such as a valid passport copy, English proficiency test scores, and a financial statement.",
+      "keywords": [
+        "international",
+        "foreign students",
+        "overseas",
+        "visa"
+      ]
+    },
+    {
+      "id": 5,
+      "category": "Admissions",
+      "question": "Is there an entrance test for admission?",
+      "answer": "Most undergraduate programs require the Nova Admission Test (NAT), a sample aptitude test covering English, mathematics, and general reasoning.",
+      "keywords": [
+        "entrance test",
+        "admission test",
+        "NAT",
+        "exam for admission"
+      ]
+    },
+    {
+      "id": 6,
+      "category": "Courses & Departments",
+      "question": "What departments does Nova University have?",
+      "answer": "Nova University (demo) offers the Department of Computer Science, Department of Business Administration, Department of Electrical Engineering, Department of Social Sciences, and Department of Mathematics.",
+      "keywords": [
+        "departments",
+        "faculties",
+        "schools",
+        "programs offered"
+      ]
+    },
+    {
+      "id": 7,
+      "category": "Courses & Departments",
+      "question": "How do I choose my major?",
+      "answer": "Students select their major during the first year after completing foundation courses. You can consult your academic advisor before finalizing your major.",
+      "keywords": [
+        "major",
+        "choose major",
+        "specialization",
+        "field of study"
+      ]
+    },
+    {
+      "id": 8,
+      "category": "Courses & Departments",
+      "question": "Can I change my major after enrollment?",
+      "answer": "Yes, students can request a major change through the Registrar's Office (demo) before the end of their second year, subject to department approval.",
+      "keywords": [
+        "change major",
+        "switch department",
+        "transfer major"
+      ]
+    },
+    {
+      "id": 9,
+      "category": "Courses & Departments",
+      "question": "What is the duration of a bachelor's degree at Nova University?",
+      "answer": "A standard bachelor's degree at Nova University (demo) takes 4 years (8 semesters) to complete for full-time students.",
+      "keywords": [
+        "duration",
+        "degree length",
+        "how many years",
+        "program length"
+      ]
+    },
+    {
+      "id": 10,
+      "category": "Courses & Departments",
+      "question": "Are there minor programs available?",
+      "answer": "Yes, Nova University (demo) offers minor programs in areas such as Data Science, Entrepreneurship, and Psychology, which can be added alongside your major.",
+      "keywords": [
+        "minor",
+        "minor program",
+        "additional specialization"
+      ]
+    },
+    {
+      "id": 11,
+      "category": "Fees & Payments",
+      "question": "How much is the semester fee?",
+      "answer": "The average semester fee at Nova University (demo data) is approximately $2,500 for undergraduate programs, though it varies by department.",
+      "keywords": [
+        "semester fee",
+        "tuition fee",
+        "cost",
+        "how much fee"
+      ]
+    },
+    {
+      "id": 12,
+      "category": "Fees & Payments",
+      "question": "How can I pay my semester fee?",
+      "answer": "Fees can be paid online through the Student Portal using a debit/credit card or bank transfer, or in person at the Finance Office (demo).",
+      "keywords": [
+        "pay fee",
+        "payment method",
+        "fee payment",
+        "how to pay"
+      ]
+    },
+    {
+      "id": 13,
+      "category": "Fees & Payments",
+      "question": "Is there a fee installment plan?",
+      "answer": "Yes, Nova University (demo) offers a 3-installment payment plan for students who cannot pay the full semester fee at once. Approval is required from the Finance Office.",
+      "keywords": [
+        "installment",
+        "fee plan",
+        "pay in parts",
+        "installment plan"
+      ]
+    },
+    {
+      "id": 14,
+      "category": "Fees & Payments",
+      "question": "What happens if I pay my fee late?",
+      "answer": "A late fee of $50 is charged for payments made after the due date (sample policy). Continued non-payment may result in a hold on your student account.",
+      "keywords": [
+        "late fee",
+        "overdue payment",
+        "penalty",
+        "late payment"
+      ]
+    },
+    {
+      "id": 15,
+      "category": "Fees & Payments",
+      "question": "Are there any additional charges besides tuition?",
+      "answer": "Yes, students may be charged separately for lab fees, library fines, hostel accommodation, and student activity fees.",
+      "keywords": [
+        "additional fees",
+        "extra charges",
+        "hidden fees",
+        "other costs"
+      ]
+    },
+    {
+      "id": 16,
+      "category": "Exams",
+      "question": "When are exams held?",
+      "answer": "Midterm exams are typically held in week 8 of the semester, and final exams are held during the last two weeks of the semester (sample schedule).",
+      "keywords": [
+        "exam schedule",
+        "when are exams",
+        "exam dates",
+        "final exam"
+      ]
+    },
+    {
+      "id": 17,
+      "category": "Exams",
+      "question": "How can I check my exam results?",
+      "answer": "Exam results are published on the Student Portal under the 'Results' tab, usually within 2-3 weeks after the exam period ends.",
+      "keywords": [
+        "exam results",
+        "check results",
+        "grades",
+        "marks"
+      ]
+    },
+    {
+      "id": 18,
+      "category": "Exams",
+      "question": "What happens if I miss an exam?",
+      "answer": "If you miss an exam due to a valid reason (medical or emergency), you must submit a supporting document to the Examination Office within 3 days to request a makeup exam.",
+      "keywords": [
+        "missed exam",
+        "makeup exam",
+        "absent exam",
+        "retake exam"
+      ]
+    },
+    {
+      "id": 19,
+      "category": "Exams",
+      "question": "Is there a re-checking option for exam papers?",
+      "answer": "Yes, students can apply for a paper re-check within 7 days of result announcement by paying a small re-checking fee through the Student Portal.",
+      "keywords": [
+        "recheck",
+        "remarking",
+        "paper checking",
+        "grade appeal"
+      ]
+    },
+    {
+      "id": 20,
+      "category": "Exams",
+      "question": "What is the passing marks criteria?",
+      "answer": "Students must obtain a minimum of 50% marks in each course to pass, and an overall CGPA of 2.0 to remain in good academic standing (sample policy).",
+      "keywords": [
+        "passing marks",
+        "pass criteria",
+        "minimum grade",
+        "passing percentage"
+      ]
+    },
+    {
+      "id": 21,
+      "category": "Assignments",
+      "question": "How do I submit assignments?",
+      "answer": "Assignments must be submitted through the Learning Management System (LMS) available on the Student Portal before the deadline set by your instructor.",
+      "keywords": [
+        "submit assignment",
+        "assignment submission",
+        "how to submit",
+        "LMS"
+      ]
+    },
+    {
+      "id": 22,
+      "category": "Assignments",
+      "question": "What happens if I submit an assignment late?",
+      "answer": "Late assignments are accepted within 24 hours with a 10% grade deduction. After 24 hours, the assignment may not be accepted unless approved by the instructor.",
+      "keywords": [
+        "late assignment",
+        "late submission",
+        "assignment deadline",
+        "penalty"
+      ]
+    },
+    {
+      "id": 23,
+      "category": "Assignments",
+      "question": "Can I request an extension for an assignment?",
+      "answer": "Yes, extensions can be requested by emailing your course instructor at least 24 hours before the deadline, explaining the reason for the request.",
+      "keywords": [
+        "extension",
+        "assignment extension",
+        "more time",
+        "deadline extension"
+      ]
+    },
+    {
+      "id": 24,
+      "category": "Assignments",
+      "question": "Is plagiarism checked in assignments?",
+      "answer": "Yes, all assignments are checked using plagiarism detection software. Submissions with high similarity scores may be referred to the Academic Integrity Committee.",
+      "keywords": [
+        "plagiarism",
+        "copying",
+        "academic integrity",
+        "originality"
+      ]
+    },
+    {
+      "id": 25,
+      "category": "Assignments",
+      "question": "How are assignments graded?",
+      "answer": "Assignments are typically graded based on a rubric provided by the instructor, covering content accuracy, structure, and adherence to submission guidelines.",
+      "keywords": [
+        "grading",
+        "assignment grading",
+        "how are assignments marked",
+        "rubric"
+      ]
+    },
+    {
+      "id": 26,
+      "category": "Attendance",
+      "question": "What is the attendance requirement?",
+      "answer": "Students are required to maintain a minimum of 75% attendance in each course to be eligible to sit for the final exam (sample university policy).",
+      "keywords": [
+        "attendance requirement",
+        "how much attendance",
+        "attendance percentage",
+        "minimum attendance"
+      ]
+    },
+    {
+      "id": 27,
+      "category": "Attendance",
+      "question": "What happens if my attendance is below 75%?",
+      "answer": "Students with attendance below 75% may be marked as 'Short Attendance' and barred from taking the final exam unless a leave request is approved by the department.",
+      "keywords": [
+        "low attendance",
+        "attendance shortage",
+        "barred",
+        "attendance below requirement"
+      ]
+    },
+    {
+      "id": 28,
+      "category": "Attendance",
+      "question": "How is attendance calculated?",
+      "answer": "Attendance is calculated based on the number of classes attended divided by the total number of classes held for that course, shown as a percentage on the Student Portal.",
+      "keywords": [
+        "attendance calculation",
+        "how is attendance counted",
+        "attendance formula"
+      ]
+    },
+    {
+      "id": 29,
+      "category": "Attendance",
+      "question": "Can I apply for a medical leave for attendance shortage?",
+      "answer": "Yes, students can submit a medical certificate to the department office within 5 working days of the absence to have it considered for attendance relaxation.",
+      "keywords": [
+        "medical leave",
+        "sick leave",
+        "attendance exemption",
+        "leave application"
+      ]
+    },
+    {
+      "id": 30,
+      "category": "Attendance",
+      "question": "Where can I check my attendance record?",
+      "answer": "Your attendance record for each course is available on the Student Portal under the 'Attendance' section, updated weekly by instructors.",
+      "keywords": [
+        "check attendance",
+        "attendance record",
+        "view attendance"
+      ]
+    },
+    {
+      "id": 31,
+      "category": "Library",
+      "question": "What are the library timings?",
+      "answer": "The Nova University Library (demo) is open Monday to Friday from 8:00 AM to 8:00 PM, and Saturday from 9:00 AM to 4:00 PM.",
+      "keywords": [
+        "library timing",
+        "library hours",
+        "when is library open"
+      ]
+    },
+    {
+      "id": 32,
+      "category": "Library",
+      "question": "How many books can I borrow at a time?",
+      "answer": "Undergraduate students can borrow up to 3 books at a time for a period of 14 days, with the option to renew once if no one else has requested the book.",
+      "keywords": [
+        "borrow books",
+        "book limit",
+        "library books",
+        "how many books"
+      ]
+    },
+    {
+      "id": 33,
+      "category": "Library",
+      "question": "What happens if I return a book late?",
+      "answer": "A late fine of $0.50 per day is charged for overdue books (sample policy), which is added to your student account.",
+      "keywords": [
+        "late book fine",
+        "library fine",
+        "overdue book",
+        "late return"
+      ]
+    },
+    {
+      "id": 34,
+      "category": "Library",
+      "question": "Can I access the library resources online?",
+      "answer": "Yes, Nova University (demo) provides access to e-books, research journals, and digital databases through the online Library Portal using your student login.",
+      "keywords": [
+        "online library",
+        "digital library",
+        "e-books",
+        "online resources"
+      ]
+    },
+    {
+      "id": 35,
+      "category": "Library",
+      "question": "How do I reserve a study room in the library?",
+      "answer": "Study rooms can be reserved through the Library Portal by selecting an available time slot, up to 3 days in advance.",
+      "keywords": [
+        "reserve study room",
+        "book study room",
+        "library room booking"
+      ]
+    },
+    {
+      "id": 36,
+      "category": "Timetable",
+      "question": "Where can I find my class timetable?",
+      "answer": "Your personalized class timetable is available on the Student Portal under 'My Schedule' once course registration is finalized.",
+      "keywords": [
+        "timetable",
+        "class schedule",
+        "where is my schedule",
+        "class timing"
+      ]
+    },
+    {
+      "id": 37,
+      "category": "Timetable",
+      "question": "When does the semester start?",
+      "answer": "The Fall semester typically starts in the first week of September, and the Spring semester starts in the first week of February (sample academic calendar).",
+      "keywords": [
+        "semester start",
+        "when does semester begin",
+        "academic calendar"
+      ]
+    },
+    {
+      "id": 38,
+      "category": "Timetable",
+      "question": "Can I change my class timing?",
+      "answer": "Class timings are fixed by the department; however, students may switch to a different section offering the same course, subject to seat availability.",
+      "keywords": [
+        "change class timing",
+        "switch section",
+        "change timetable"
+      ]
+    },
+    {
+      "id": 39,
+      "category": "Timetable",
+      "question": "How can I view exam timetables?",
+      "answer": "Exam timetables are published on the Student Portal and department notice boards at least two weeks before the exam period begins.",
+      "keywords": [
+        "exam timetable",
+        "exam schedule",
+        "when is my exam"
+      ]
+    },
+    {
+      "id": 40,
+      "category": "Timetable",
+      "question": "What are the university's semester break dates?",
+      "answer": "Nova University (demo) observes a 2-week winter break in January and a 4-week summer break between June and July, as per the sample academic calendar.",
+      "keywords": [
+        "semester break",
+        "holidays",
+        "vacation",
+        "break dates"
+      ]
+    },
+    {
+      "id": 41,
+      "category": "Scholarships",
+      "question": "What scholarships are available at Nova University?",
+      "answer": "Nova University (demo) offers Merit Scholarships, Need-Based Financial Aid, Sports Scholarships, and Departmental Scholarships for high-achieving students.",
+      "keywords": [
+        "scholarships available",
+        "financial aid",
+        "scholarship types"
+      ]
+    },
+    {
+      "id": 42,
+      "category": "Scholarships",
+      "question": "How do I apply for a scholarship?",
+      "answer": "Scholarship applications are submitted through the Student Portal under the 'Financial Aid' section, along with supporting documents such as income certificates or academic transcripts.",
+      "keywords": [
+        "apply scholarship",
+        "scholarship application",
+        "how to apply for financial aid"
+      ]
+    },
+    {
+      "id": 43,
+      "category": "Scholarships",
+      "question": "What is the eligibility criteria for a merit scholarship?",
+      "answer": "Students must maintain a minimum CGPA of 3.5 in the previous semester to remain eligible for the Merit Scholarship (sample policy).",
+      "keywords": [
+        "merit scholarship eligibility",
+        "scholarship requirements",
+        "CGPA requirement"
+      ]
+    },
+    {
+      "id": 44,
+      "category": "Scholarships",
+      "question": "Can I hold more than one scholarship at the same time?",
+      "answer": "Generally, students can only hold one primary scholarship at a time, though some departmental awards may be combined with need-based aid upon approval.",
+      "keywords": [
+        "multiple scholarships",
+        "combine scholarships",
+        "stack scholarships"
+      ]
+    },
+    {
+      "id": 45,
+      "category": "Scholarships",
+      "question": "When are scholarship results announced?",
+      "answer": "Scholarship results are typically announced 4 weeks after the application deadline and communicated via the Student Portal and university email.",
+      "keywords": [
+        "scholarship results",
+        "when will I know",
+        "scholarship announcement"
+      ]
+    },
+    {
+      "id": 46,
+      "category": "Campus Facilities",
+      "question": "Does Nova University have hostel/dormitory facilities?",
+      "answer": "Yes, Nova University (demo) offers on-campus dormitories for both male and female students, with shared and private room options available.",
+      "keywords": [
+        "hostel",
+        "dormitory",
+        "accommodation",
+        "on campus housing"
+      ]
+    },
+    {
+      "id": 47,
+      "category": "Campus Facilities",
+      "question": "Are there sports facilities on campus?",
+      "answer": "Yes, the campus includes a gymnasium, football field, basketball courts, and a swimming pool available for student use (demo data).",
+      "keywords": [
+        "sports facilities",
+        "gym",
+        "sports complex",
+        "fitness center"
+      ]
+    },
+    {
+      "id": 48,
+      "category": "Campus Facilities",
+      "question": "Is there a cafeteria on campus?",
+      "answer": "Yes, Nova University (demo) has multiple cafeterias and food courts offering a variety of meal options across campus.",
+      "keywords": [
+        "cafeteria",
+        "food court",
+        "dining",
+        "canteen"
+      ]
+    },
+    {
+      "id": 49,
+      "category": "Campus Facilities",
+      "question": "Does the university provide transport services?",
+      "answer": "Yes, a university shuttle bus service (demo) operates on fixed routes across the city for students who do not live on campus.",
+      "keywords": [
+        "transport",
+        "shuttle bus",
+        "university transport",
+        "bus service"
+      ]
+    },
+    {
+      "id": 50,
+      "category": "Campus Facilities",
+      "question": "Is medical assistance available on campus?",
+      "answer": "Yes, the campus has a Student Health Center (demo) providing basic medical assistance and first aid during university hours.",
+      "keywords": [
+        "medical center",
+        "health center",
+        "clinic",
+        "first aid"
+      ]
+    },
+    {
+      "id": 51,
+      "category": "IT / Student Portal",
+      "question": "How do I log in to the student portal?",
+      "answer": "You can log in to the Student Portal using your university-issued student ID and the password provided during enrollment.",
+      "keywords": [
+        "student portal login",
+        "how to login",
+        "portal access"
+      ]
+    },
+    {
+      "id": 52,
+      "category": "IT / Student Portal",
+      "question": "I forgot my student portal password. What should I do?",
+      "answer": "Click on 'Forgot Password' on the Student Portal login page and follow the instructions to reset your password via your registered email.",
+      "keywords": [
+        "forgot password",
+        "reset password",
+        "password recovery"
+      ]
+    },
+    {
+      "id": 53,
+      "category": "IT / Student Portal",
+      "question": "How do I get access to campus Wi-Fi?",
+      "answer": "Connect to the 'NovaUniversity-WiFi' network and log in using your student portal credentials to access the campus internet.",
+      "keywords": [
+        "wifi",
+        "campus internet",
+        "wireless access",
+        "connect to wifi"
+      ]
+    },
+    {
+      "id": 54,
+      "category": "IT / Student Portal",
+      "question": "Who do I contact for technical issues with the portal?",
+      "answer": "For technical issues, contact the IT Help Desk (demo) via the support ticket system on the Student Portal or visit the IT office on campus.",
+      "keywords": [
+        "IT support",
+        "technical issue",
+        "portal not working",
+        "help desk"
+      ]
+    },
+    {
+      "id": 55,
+      "category": "IT / Student Portal",
+      "question": "Can I access the student portal from my phone?",
+      "answer": "Yes, the Student Portal is mobile-responsive and can also be accessed through the Nova University mobile app (demo) available for Android and iOS.",
+      "keywords": [
+        "mobile access",
+        "portal app",
+        "student app",
+        "access from phone"
+      ]
+    },
+    {
+      "id": 56,
+      "category": "General University Information",
+      "question": "Where is Nova University located?",
+      "answer": "Nova University (demo/fictional institution) is a sample university created for demonstration purposes and is not tied to any real physical location.",
+      "keywords": [
+        "location",
+        "where is the university",
+        "campus address"
+      ]
+    },
+    {
+      "id": 57,
+      "category": "General University Information",
+      "question": "Is Nova University accredited?",
+      "answer": "This is a fictional demo university created for a student project and does not hold any real accreditation. All information is sample data.",
+      "keywords": [
+        "accreditation",
+        "is it accredited",
+        "recognized university"
+      ]
+    },
+    {
+      "id": 58,
+      "category": "General University Information",
+      "question": "How can I contact the university administration?",
+      "answer": "For this demo project, a sample contact would be through the 'Contact Us' section of the Student Portal, which routes queries to the relevant department.",
+      "keywords": [
+        "contact university",
+        "administration contact",
+        "how to contact"
+      ]
+    },
+    {
+      "id": 59,
+      "category": "General University Information",
+      "question": "Does Nova University offer online/distance learning?",
+      "answer": "Yes, in this demo scenario, Nova University offers select online and hybrid courses through its Learning Management System for working students.",
+      "keywords": [
+        "online learning",
+        "distance learning",
+        "hybrid courses",
+        "e-learning"
+      ]
+    },
+    {
+      "id": 60,
+      "category": "General University Information",
+      "question": "What student support services are available?",
+      "answer": "Nova University (demo) provides academic advising, career counseling, mental health support, and peer tutoring services to help students succeed.",
+      "keywords": [
+        "student support",
+        "counseling",
+        "advising",
+        "support services"
+      ]
+    }
+  ]
+}
